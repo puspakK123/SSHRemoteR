@@ -1,2 +1,6 @@
 hello hello this is check commit 
+<<<<<<< HEAD
 hi hi
+=======
+hihi
+>>>>>>> 409db552a780d1403cddff613de4bef7d399f00d
